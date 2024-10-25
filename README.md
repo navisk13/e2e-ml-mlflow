@@ -21,16 +21,12 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+git clone https://github.com/navisk13/e2e-ml-mlflow.git
 ```
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- Activate the virtual environment
 
 ```bash
-conda create -n mlproj python=3.8 -y
-```
-
-```bash
-conda activate mlproj
+source virtualenv/bin/activate
 ```
 
 
