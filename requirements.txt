@@ -4,6 +4,7 @@ notebook
 numpy
 scikit-learn
 matplotlib
+streamlit
 python-box==6.0.2
 pyYAML
 tqdm
