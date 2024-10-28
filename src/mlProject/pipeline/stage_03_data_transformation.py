@@ -3,9 +3,6 @@ from mlProject.components.data_transformation import DataTransformation
 from mlProject import logger
 from pathlib import Path
 
-
-
-
 STAGE_NAME = "Data Transformation stage"
 
 class DataTransformationTrainingPipeline:
@@ -29,10 +26,6 @@ class DataTransformationTrainingPipeline:
 
         except Exception as e:
             print(e)
-
-
-
-
 
 if __name__ == '__main__':
     try:
